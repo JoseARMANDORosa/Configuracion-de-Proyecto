@@ -21,8 +21,7 @@ public class MiProyectoController : ControllerBase
 
 
 
-
-[HttpGet("presentacion")]
+    [HttpGet("presentacion")]
 
     public IActionResult Presentacion()
     {
