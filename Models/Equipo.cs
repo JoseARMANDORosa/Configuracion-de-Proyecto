@@ -24,7 +24,7 @@ public class Equipo
     [BsonElement("integrante1")]
     public string? Integrante1 { get; set; }
 
-    [BsonElement("inetegrante2")]
+    [BsonElement("integrante2")]
     public string? Integrante2 { get; set; }
     
      [BsonElement("fecha")]
